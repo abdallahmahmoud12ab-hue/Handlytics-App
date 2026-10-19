@@ -1,0 +1,36 @@
+{
+ "name": "Handlytics - Handball Insights",
+ "short_name": "Handlytics",
+ "description": "Handball match analysis: attack, defense, statistics and PDF reports",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#0B0F14",
+ "theme_color": "#0B0F14",
+ "lang": "ar",
+ "dir": "auto",
+ "categories": [
+  "sports"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
